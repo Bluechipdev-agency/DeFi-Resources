@@ -13,11 +13,10 @@ This is a **beginner-friendly** resource, ideal for anyone who is just starting 
 To get started with the code in this repository, follow these steps:
 
 1. Clone the repository:
+   `git clone https://github.com/yourusername/token-development.git
+    cd token-development`
 
-  `git clone https://github.com/yourusername/token-development.git
-  cd token-development`
-
-2. Install dependencies: Make sure you have Node.js installed, then run:
+3. Install dependencies: Make sure you have Node.js installed, then run:
 
   `npm install`
 
