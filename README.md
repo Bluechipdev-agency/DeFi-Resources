@@ -14,24 +14,24 @@ To get started with the code in this repository, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/yourusername/token-development.git
-cd token-development`
+  `git clone https://github.com/yourusername/token-development.git
+  cd token-development`
 
 2. Install dependencies: Make sure you have Node.js installed, then run:
 
-`npm install`
+  `npm install`
 
 3. Set up Hardhat: We use Hardhat for compiling, testing, and deploying contracts. If you haven't installed it yet, run:
 
-`npx hardhat`
+  `npx hardhat`
 
 4. Deploy to Local Network: You can deploy contracts on Hardhat's local network by running:
 
-`npx hardhat run scripts/deploy.js --network localhost`
+  `npx hardhat run scripts/deploy.js --network localhost`
 
 5. Run Tests: To run the test suite and ensure everything is working correctly, use:
 
-`npx hardhat test`
+  `npx hardhat test`
 
 ## Testing ✔️
 This repository includes test cases for each contract to ensure that the functionality works as expected. Tests are written using Hardhat, Mocha, and Chai.
@@ -58,4 +58,5 @@ This project is licensed under the **MIT License**. See the LICENSE file for mor
 For any questions or inquiries, feel free to reach out to the repository owner at:
 
 Email: Bluchipdev.agency@gmail.com
+
 Twitter: @BlueChipDev_
