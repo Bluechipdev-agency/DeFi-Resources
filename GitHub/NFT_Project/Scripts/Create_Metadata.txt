@@ -1,0 +1,15 @@
+{
+  "name": "Token #1",
+  "description": "This is a unique NFT representing Token #1",
+  "image": "https://example.com/token1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
