@@ -14,8 +14,8 @@ To get started with the code in this repository, follow these steps:
 
 Clone the repository:
 
-`git clone https://github.com/yourusername/token-development.git
-cd token-development`
+`git clone https://github.com/yourusername/DeFi-Resources.git
+cd DeFi-Resources`
 
 Install dependencies: Make sure you have Node.js installed, then run:
 
@@ -27,7 +27,7 @@ Set up Hardhat: We use Hardhat for compiling, testing, and deploying contracts. 
 
 Deploy to Local Network: You can deploy contracts on Hardhat's local network by running:
 
-  `npx hardhat run scripts/deploy.js --network localhost`
+  `npx hardhat run /projectname/scripts/deploy.js --network localhost`
 
 Run Tests: To run the test suite and ensure everything is working correctly, use:
 
