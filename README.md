@@ -12,34 +12,35 @@ This is a **beginner-friendly** resource, ideal for anyone who is just starting 
 ## Getting Started 🛠️
 To get started with the code in this repository, follow these steps:
 
-1. Clone the repository:
-   `git clone https://github.com/yourusername/token-development.git
-    cd token-development`
+Clone the repository:
 
-3. Install dependencies: Make sure you have Node.js installed, then run:
+`git clone https://github.com/yourusername/token-development.git
+cd token-development`
+
+Install dependencies: Make sure you have Node.js installed, then run:
 
   `npm install`
 
-3. Set up Hardhat: We use Hardhat for compiling, testing, and deploying contracts. If you haven't installed it yet, run:
+Set up Hardhat: We use Hardhat for compiling, testing, and deploying contracts. If you haven't installed it yet, run:
 
   `npx hardhat`
 
-4. Deploy to Local Network: You can deploy contracts on Hardhat's local network by running:
+Deploy to Local Network: You can deploy contracts on Hardhat's local network by running:
 
   `npx hardhat run scripts/deploy.js --network localhost`
 
-5. Run Tests: To run the test suite and ensure everything is working correctly, use:
+Run Tests: To run the test suite and ensure everything is working correctly, use:
 
   `npx hardhat test`
 
 ## Testing ✔️
 This repository includes test cases for each contract to ensure that the functionality works as expected. Tests are written using Hardhat, Mocha, and Chai.
 
-- Run Tests: To run the tests for the contracts, use the following command:
+Run Tests: To run the tests for the contracts, use the following command:
 
 `npx hardhat test`
 
-- Test Reports: You can find the results of the tests in the terminal output. If you're using an IDE, you can run the tests within it and see detailed reports.
+Test Reports: You can find the results of the tests in the terminal output. If you're using an IDE, you can run the tests within it and see detailed reports.
 
 ## Contributing 🤝
 We welcome contributions to this repository! If you have an idea for an enhancement, a bug fix, or a new token standard implementation, feel free to fork the repo, make your changes, and open a pull request. Please ensure that tests are included for any new functionality.
