@@ -59,4 +59,4 @@ For any questions or inquiries, feel free to reach out to the repository owner a
 
 Email: konios.agency@gmail.com
 
-Twitter: @BlueChipDev_
+Twitter: @KoniosAgency
