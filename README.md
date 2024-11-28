@@ -1,6 +1,6 @@
 # DeFi-Resources 🧑‍💻
 
-Welcome to the **Bluechipdev De-Fi Resources** repository! This repository is **designed to help beginner blockchain developers** quickly get started with creating, deploying, and testing various token contracts on Ethereum-compatible blockchains. Whether you're looking to deploy a simple ERC-20 token or an ERC-721 NFT with advanced features, this repository has you covered!
+Welcome to the **Konios De-Fi Resources** repository! This repository is **designed to help beginner blockchain developers** quickly get started with creating, deploying, and testing various token contracts on Ethereum-compatible blockchains. Whether you're looking to deploy a simple ERC-20 token or an ERC-721 NFT with advanced features, this repository has you covered!
 
 The provided code includes various token standards, contract factories, and test setups to guide you through the deployment process. We also provide examples of contract interaction and integration with popular marketplaces like OpenSea.
 
@@ -57,6 +57,6 @@ This project is licensed under the **MIT License**. See the LICENSE file for mor
 ## Contact 🚀
 For any questions or inquiries, feel free to reach out to the repository owner at:
 
-Email: Bluchipdev.agency@gmail.com
+Email: konios.agency@gmail.com
 
 Twitter: @BlueChipDev_
