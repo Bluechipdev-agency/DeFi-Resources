@@ -42,15 +42,6 @@ Run Tests: To run the tests for the contracts, use the following command:
 
 Test Reports: You can find the results of the tests in the terminal output. If you're using an IDE, you can run the tests within it and see detailed reports.
 
-## Contributing 🤝
-We welcome contributions to this repository! If you have an idea for an enhancement, a bug fix, or a new token standard implementation, feel free to fork the repo, make your changes, and open a pull request. Please ensure that tests are included for any new functionality.
-
-Steps for contributing:
-1. Fork the repository
-2. Create a new branch for your feature or fix
-3. Make changes and ensure tests are added or updated
-4. Open a pull request to the main branch
-
 ## Custom Token Development 👑
 Why spend weeks figuring out how to launch a successful meme or utility coin when you can work with **developers with 4+ years of experience** in the industry, and launch in days? **We specialize in tokenomics engineering and solidity smart contact development.**
 
@@ -62,6 +53,14 @@ Why spend weeks figuring out how to launch a successful meme or utility coin whe
 
 Ready to order Own Viral Meme Coin? Visit: [Konios](https://konios.webflow.io)
 
+## Contributing 🤝
+We welcome contributions to this repository! If you have an idea for an enhancement, a bug fix, or a new token standard implementation, feel free to fork the repo, make your changes, and open a pull request. Please ensure that tests are included for any new functionality.
+
+Steps for contributing:
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Make changes and ensure tests are added or updated
+4. Open a pull request to the main branch
 
 ## License 💼
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
