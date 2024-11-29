@@ -51,6 +51,18 @@ Steps for contributing:
 3. Make changes and ensure tests are added or updated
 4. Open a pull request to the main branch
 
+## Custom Token Development 👑
+Why spend weeks figuring out how to launch a successful meme or utility coin when you can work with **developers with 4+ years of experience** in the industry, and launch in days? **We specialize in tokenomics engineering and solidity smart contact development.**
+
+**here’s what you’ll get:**
+
+1. **Custom Token Development** — Meme coins or utility tokens designed to perform in the crypto markets.
+2. **Expert Tokenomics Engineering**—  we control supply and demand to create sustainability and attract attention to your token.
+3. **Comprehensive Whitepaper Writing** —We will write a high quality whitepaper for you creating legitimacy for your project.
+
+Ready to Launch Your Own Viral Meme Coin? Visit: konios.webflow.io
+
+
 ## License 💼
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
 
